@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Cloud",
+  "description": "Your Digital World. Your Private Universe. Scalable private cloud storage ecosystem with AI assistant, personal vault, productivity tools, and universal file management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
